@@ -103,11 +103,23 @@ navbar(company = "hitesh")
 // }
 
 
-[
-    {},
-    {},
-    {}
-]
+// [
+//     {},
+//     {},
+//     {}
+// ]
+
+
+const person = {
+    firstname : "John",
+    lastname  : "Doe",
+    id        : 5566,
+    fullname  : function(){
+        return this.firstname + " " + this.lastname;
+    }
+};
+
+console.log(person.fullname())
 
 
 
