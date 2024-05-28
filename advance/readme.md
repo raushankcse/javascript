@@ -13,3 +13,6 @@ video notes
     - with function keyword
     - variable name then function keyword
     - variable name parenthesis and arrow sign
+
+4. Rest Operator
+    - 
