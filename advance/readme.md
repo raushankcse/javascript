@@ -28,4 +28,7 @@ video notes
     - property name and variable name is same
 
 7. Destructuring Array
-    - 
+    
+
+8. Destructuring Object
+    
