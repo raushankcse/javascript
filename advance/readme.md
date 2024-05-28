@@ -15,4 +15,5 @@ video notes
     - variable name parenthesis and arrow sign
 
 4. Rest Operator
+    - function with multiple arguments
     - 
