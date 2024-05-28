@@ -23,3 +23,6 @@ video notes
 5. Spread Operator
     - an array spread into multiple arguments
     - spread operator use while calling
+
+6. Object Literals
+    - property name and variable name is same
