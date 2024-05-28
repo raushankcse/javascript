@@ -26,3 +26,6 @@ video notes
 
 6. Object Literals
     - property name and variable name is same
+
+7. Destructuring Array
+    - 
