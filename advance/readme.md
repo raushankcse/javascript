@@ -16,3 +16,10 @@ video notes
 
 4. Rest Operator
     - function with multiple arguments
+    - arguments with string and numeric value
+    - multiple operator converted into one array
+    - function declartion we use rest operator
+
+5. Spread Operator
+    - an array spread into multiple arguments
+    - spread operator use while calling
