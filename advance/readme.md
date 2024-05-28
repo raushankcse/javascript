@@ -9,3 +9,7 @@ video notes
     - `backtick`
     - no concatenation
     
+3. Arrow functions
+    - with function keyword
+    - variable name then function keyword
+    - variable name parenthesis and arrow sign
