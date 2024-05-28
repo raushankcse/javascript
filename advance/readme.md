@@ -16,4 +16,3 @@ video notes
 
 4. Rest Operator
     - function with multiple arguments
-    - 
