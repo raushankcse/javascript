@@ -32,3 +32,23 @@ video notes
 
 8. Destructuring Object
     
+
+9. OOPS
+    - Coding methodoly
+    - class and object 
+    - class is blueprint
+    - to use we create objects
+    - class has properties and methods
+    - types of mehtods - constructor, prototype, static
+
+10. inheitance
+    - class a use class b properties and methods
+    - to use has keyword 'extends'
+    - 
+
+
+
+
+
+    code more reusable
+    - 
