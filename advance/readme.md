@@ -44,11 +44,5 @@ video notes
 10. inheitance
     - class a use class b properties and methods
     - to use has keyword 'extends'
-    - 
-
-
-
-
-
-    code more reusable
+    - code more reusable
     - 
