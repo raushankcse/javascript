@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>arrow functions</title>
+    
+</head>
+<body>  
+    <h1 id="name">Hello & Welcome Raushan Kumar - 21</h1>
+    <script>
+        // let welcome = (name, age) =>{
+        //     return `Hello & Welcome ${name} - ${age}`;
+        // }
+    
+        let welcome = (name, age) => `Hello & Welcome ${name} - ${age}`;
+        
+    
+        console.log(welcome("Yahoo Baba", 25));
+    
+        console.log(typeof welcome)
+    
+        let change = document.querySelector("#name");
+        change.innerHTML = welcome("Pranav Prasad", 22);
+    </script>
+</body>
+
+</html>

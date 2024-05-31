@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advance JS</title>
+</head>
+<body>
+    
+
+    <script>
+        function sum(name,course,  ...args){
+            console.log(arguments);
+            document.write(`Hello ${name} of ${course}: `);
+            let sum = 0;
+            for(let i in args){
+                sum += args[i];
+            }
+            document.write(sum + "<br>");
+        }
+        sum("Raushan Kumar", "Btech", 20,30,40);
+        sum("Ram Kumar","BA", 55, 44);
+        // sum(20,30);
+    </script>
+</body>
+</html>

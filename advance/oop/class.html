@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advance JS</title>
+</head>
+<body>
+    
+    
+
+    <script>
+        // class hello{
+        //     message()
+        //     {
+        //         console.log("Hello Everyone");
+        //     }
+        //     sorry(){
+        //         console.log("Sorry Everyone");
+        //     }
+        // }
+
+        // let a = new hello();
+
+        // a.message();
+        // a.sorry();
+
+
+        class student{
+            constructor(name, age){
+                this.studentname = name;
+                this.studentage = age;
+                console.log("constructor function");
+            }
+
+            hello(){
+                document.write(`Hello ${this.studentname} Your age is ${this.studentage}`);
+
+            }
+
+            static staticMethod(){
+                console.log("static Function");
+            }
+        }
+
+        let a = new student("Yahoo baba", 25);
+        let b = new student("Ram Kumar", 22);
+
+        a.hello();
+
+        student.staticMethod();
+
+
+
+
+
+
+    </script>
+</body>
+</html>
