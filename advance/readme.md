@@ -45,4 +45,9 @@ video notes
     - class a use class b properties and methods
     - to use has keyword 'extends'
     - code more reusable
-    - 
+
+11. Modules
+    - two files has lots of varialbe and one file want to use another file variable
+    - module has two function: export and import
+    - one file use export
+    - other file use import
