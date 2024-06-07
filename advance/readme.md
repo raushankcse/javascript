@@ -51,3 +51,13 @@ video notes
     - module has two function: export and import
     - one file use export
     - other file use import
+
+
+12. Promise
+    - promise divide in three stages
+    - pending
+    - fulfilled - restaurant
+    - rejected - see you another day
+    - promise() method - resolve() , reject()
+    - resolve() -> then(), reject() -> catch()
+    
