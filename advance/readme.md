@@ -60,4 +60,4 @@ video notes
     - rejected - see you another day
     - promise() method - resolve() , reject()
     - resolve() -> then(), reject() -> catch()
-    
+    - promise syntax
