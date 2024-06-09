@@ -61,3 +61,6 @@ video notes
     - promise() method - resolve() , reject()
     - resolve() -> then(), reject() -> catch()
     - promise syntax
+
+13. Promise.all()
+    - give multiple promise in one function
