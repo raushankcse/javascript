@@ -86,4 +86,10 @@ video notes
     - fetch method will return promise
     - you can handle promise with .then method
     - Insert, Update, Delete
+
+16. Async Function
+    - async function return promise
+    - await method
+
+17. Strict Mode
     - 

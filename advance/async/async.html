@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Advance JS</title>
+  <script>
+    // let test = async () => "Hello";
+  
+
+    // test().then((result)=>{
+    //   console.log(result);
+    // });
+
+
+    async function test(){
+
+      try{
+        const response = await fetch("json/student.json");
+        const students = await respons2e.json();
+        return students;
+      }catch(e){
+        console.log(e);
+      }
+      // return (await fetch("json/student.json")).json();
+    }
+
+    test().then((res)=>{
+      console.log(res);
+    }).catch((error)=>{
+      console.log(error);
+    })
+    
+  </script>
+</head>
+<body>
+  
+
+  
+</body>
+</html>
