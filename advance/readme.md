@@ -64,3 +64,21 @@ video notes
 
 13. Promise.all()
     - give multiple promise in one function
+
+
+
+14. AJAX
+    - Asynchronous
+    - Javascript and 
+    - XML
+    - AJAX is a technique for creating fast and dynamic web pages
+    - how ajax works?
+    - XMLHttpRequest has divide in 5 steps
+    - 0: request not initialized
+    - 1: server connection established
+    - 2: request received
+    - 3: processing request
+    - 4: request finished and response is ready
+    - status 200 : "OK" 403 : "Forbidden" 404: "Not Found"
+    - Javascript Ajax Syntax:
+    
