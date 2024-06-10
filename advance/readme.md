@@ -81,4 +81,9 @@ video notes
     - 4: request finished and response is ready
     - status 200 : "OK" 403 : "Forbidden" 404: "Not Found"
     - Javascript Ajax Syntax:
-    
+
+15. Fetch()
+    - fetch method will return promise
+    - you can handle promise with .then method
+    - Insert, Update, Delete
+    - 
