@@ -93,3 +93,17 @@ video notes
 
 17. Strict Mode
     - 
+
+
+18. Error Handling
+    - try catch method
+    - different type of error in javascript
+    - evalError
+    - RangError
+    - ReferenceError
+    - SyntaxError
+    - TypeError
+    - URIError
+    - AggregateError
+    - json.parse
+    - json.stringify
